@@ -1,0 +1,365 @@
+{
+	"moduleTitle": "Mitochondria",
+	"templateType": 2,
+	"modelViewJsonContents": [
+
+	],
+	"animationTemplate": {
+		"activateUIElements": true,
+		"animationViewJsonContents": [{
+				"sequenceID": 1,
+				"sequenceType": 1,
+				"sequenceName": "",
+				"audioClip": "01_Mitochondria",
+				"videoClip": "",
+				"models": "",
+				"properties": {
+					"disableControls": false
+				},
+				"uiElements": {
+					"title": "Mitochondria",
+					"buttonName": "Mitochondria"
+
+				},
+				"arScale": 0.2
+			},
+			{
+				"sequenceID": 2,
+				"sequenceType": 1,
+				"sequenceName": "",
+				"audioClip": "02_Mitochondria_Doublemembrane",
+				"videoClip": "",
+				"models": "",
+				"properties": {
+					"disableControls": false
+
+				},
+				"uiElements": {
+					"title": "Double Membrane",
+					"buttonName": "Double Membrane"
+
+				},
+				"arScale": 0.2
+			},
+			{
+				"sequenceID": 3,
+				"sequenceType": 1,
+				"sequenceName": "",
+				"audioClip": "03_Mitochondria_Outermembrane",
+				"videoClip": "",
+				"models": "",
+				"properties": {
+					"disableControls": false
+
+				},
+				"uiElements": {
+					"title": "Outer Membrane",
+					"buttonName": "Outer Membrane"
+
+				},
+				"arScale": 0.2
+			},
+			{
+				"sequenceID": 4,
+				"sequenceType": 1,
+				"sequenceName": "",
+				"audioClip": "04_Mitochondria_Innermembrane",
+				"videoClip": "",
+				"models": "",
+				"properties": {
+					"disableControls": false
+
+				},
+				"uiElements": {
+					"title": "Inner Membrane",
+					"buttonName": "Inner Membrane"
+
+				},
+				"arScale": 0.2
+			},
+			{
+				"sequenceID": 5,
+				"sequenceType": 1,
+				"sequenceName": "",
+				"audioClip": "05_Mitochondria_Intermembranespace",
+				"videoClip": "",
+				"models": "",
+				"properties": {
+					"disableControls": false
+
+				},
+				"uiElements": {
+					"title": "Inter Membrane Space",
+					"buttonName": "Inter Membrane Space"
+
+				},
+				"arScale": 0.2
+			},
+			{
+				"sequenceID": 6,
+				"sequenceType": 1,
+				"sequenceName": "",
+				"audioClip": "06_Mitochondria_Cristae",
+				"videoClip": "",
+				"models": "",
+				"labelNames": [
+
+				],
+				"properties": {
+					"disableControls": false
+				},
+				"uiElements": {
+					"title": "Cristae",
+					"buttonName": "Cristae"
+
+				},
+				"arScale": 0.2
+			},
+			{
+				"sequenceID": 7,
+				"sequenceType": 1,
+				"sequenceName": "",
+				"audioClip": "07_Mitochondria_Matrix",
+				"videoClip": "",
+				"models": "",
+				"properties": {
+					"disableControls": false
+
+				},
+				"uiElements": {
+					"title": "Matrix",
+					"buttonName": "Matrix"
+
+				},
+				"arScale": 0.2
+			},
+			{
+				"sequenceID": 8,
+				"sequenceType": 1,
+				"sequenceName": "",
+				"audioClip": "08_Mitochondria_ATPmolecules",
+				"videoClip": "",
+				"models": "",
+				"properties": {
+					"disableControls": false
+
+				},
+				"uiElements": {
+					"title": "ATP Molecules",
+					"buttonName": "ATP Molecules"
+
+				},
+				"arScale": 0.2
+			}
+
+		]
+	},
+	"subtitleData": {
+		"subtitle": [{
+				"captionsId": 1,
+				"captions": [{
+						"startTime": "0",
+						"content": "The Mitochondria is an extremely important part of eukaryotic cells."
+					},
+					{
+						"startTime": "5",
+						"content": "In order for cells to function, they have to be able to go through a multitude of chemical reactions."
+					},
+					{
+						"startTime": "11",
+						"content": "Every chemical reaction requires energy!"
+					},
+					{
+						"startTime": "14",
+						"content": "In order to use this energy, the energy must be in the form of an ATP molecule."
+					}
+				]
+			},
+			{
+				"captionsId": 2,
+				"captions": [{
+						"startTime": "0",
+						"content": "If you look closer at the mitochondria, you can see that it is a membrane bound organelle."
+					},
+					{
+						"startTime": "7",
+						"content": "An even closer inspection shows that it is actually a double membrane organelle."
+					},
+					{
+						"startTime": "12",
+						"content": "This means that there is an outer phospholipid bilayer membrane creating the border of the organelle and an inner phospholipid bilayer membrane creating increased surface area within the organelle itself."
+					}
+				]
+			},
+			{
+				"captionsId": 3,
+				"captions": [{
+						"startTime": "0",
+						"content": "This outer membrane is smooth and makes up the border of the organelle."
+					},
+					{
+						"startTime": "5",
+						"content": "It is composed of similarly to the cell membrane in its composition of phospholipids and proteins."
+					},
+					{
+						"startTime": "11",
+						"content": "It also consists of special proteins called Porins."
+					},
+					{
+						"startTime": "14",
+						"content": "These Porins are integral membrane proteins that specifically allow the movement of necessary molecules to pass through it."
+					},
+					{
+						"startTime": "21",
+						"content": "This outer membrane is freely permeable to nutrient molecules, ions, and energy molecules like ATP and ADP molecules."
+					}
+				]
+			},
+			{
+				"captionsId": 4,
+				"captions": [{
+						"startTime": "0",
+						"content": "Inner membrane of mitochondria is more complex in structure."
+					},
+					{
+						"startTime": "5",
+						"content": "It has a very large surface area that is bent into number of folds known as Cristae."
+					},
+					{
+						"startTime": "11",
+						"content": "This folding help to increase the surface area inside the mitochondria which is extremely important for efficiency."
+					},
+					{
+						"startTime": "17",
+						"content": "The cristae and proteins of the inner membrane aid in the production of ATP molecules."
+					},
+					{
+						"startTime": "23",
+						"content": "The inner membrane is the location of various chemical reactions that enable metabolism."
+					},
+					{
+						"startTime": "29",
+						"content": "This inner membrane is strictly permeable and it is permeable only to Oxygen, CO2, ATP as it helps in regulating transfer of these metabolites across the membrane."
+					}
+				]
+			},
+			{
+				"captionsId": 5,
+				"captions": [{
+						"startTime": "0",
+						"content": "If you look at the mitochondria in cross section, you can see that there are two distinctive regions created by the double membrane."
+					},
+					{
+						"startTime": "8",
+						"content": "First, there is the area between the outer membrane and the inner membrane."
+					},
+					{
+						"startTime": "13",
+						"content": "This is called the inter membrane space."
+					}
+				]
+			},
+			{
+				"captionsId": 6,
+				"captions": [{
+						"startTime": "0",
+						"content": "As mentioned earlier, the Inner membrane has many folds known as cristae."
+					},
+					{
+						"startTime": "6",
+						"content": "These cristae increase the available surface area to enhance the productivity of cellular respiration."
+					},
+					{
+						"startTime": "12",
+						"content": "This is very important for efficiency of the organelle."
+					},
+					{
+						"startTime": "15",
+						"content": "The more surface area of inner membrane there is, the more enzymatic reactions can occur along it to convert energy into ATP molecules."
+					}
+				]
+			},
+			{
+				"captionsId": 7,
+				"captions": [{
+						"startTime": "0",
+						"content": "The fluid inside the inner membrane of the mitochondria is called the matrix."
+					},
+					{
+						"startTime": "5",
+						"content": "The mitochondrial matrix content is completely enclosed by the inner membrane."
+					},
+					{
+						"startTime": "11",
+						"content": "Most of the chemical reactions of aerobic cellular respiration processes happen in the inner membrane of the mitochondria due to high concentration of enzymes and proteins."
+					},
+					{
+						"startTime": "21",
+						"content": "These enzymes are important for the synthesis of ATP molecules, mitochondria ribosome, t RNA and mitochondria DNA."
+					},
+					{
+						"startTime": "31",
+						"content": "This is one reason why the inner membrane of the mitochondria is so specific to its permeability."
+					}
+				]
+			},
+			{
+				"captionsId": 8,
+				"captions": [{
+						"startTime": "0",
+						"content": "The function of the mitochondria is to take the energy from a glucose molecule and transform that energy into the useable form within ATP molecules."
+					},
+					{
+						"startTime": "11",
+						"content": "This process, known as cellular respiration, is vital for eukaryotic cells and would not be possible without the mitochondria."
+					}
+				]
+			}
+		]
+	},
+	"events": {
+		"miniDisplayEvents": [{
+			"id": 1,
+			"startFrame": 3360,
+			"endFrame": 3655,
+			"name": "Cristae"
+		}],
+		"highLightEvents": [{
+				"id": 1,
+				"startFrame": 441,
+				"endFrame": 519,
+				"name": "Mitochondria"
+			},
+			{
+				"id": 2,
+				"startFrame": 542,
+				"endFrame": 659,
+				"name": "Double membrane"
+			},
+			{
+				"id": 3,
+				"startFrame": 1101,
+				"endFrame": 1294,
+				"name": "Outer Membrane"
+			},
+			{
+				"id": 4,
+				"startFrame": 1851,
+				"endFrame": 1964,
+				"name": "Inner Membrane"
+			},
+			{
+				"id": 5,
+				"startFrame": 3193,
+				"endFrame": 3244,
+				"name": "Inner Membrane Space"
+			},
+			{
+				"id": 6,
+				"startFrame": 3979,
+				"endFrame": 4340,
+				"name": "Matrix"
+			}
+		]
+	}
+}
